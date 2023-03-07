@@ -1,0 +1,80 @@
+
+
+body {
+   
+
+
+background-image: url("test.jpg");
+background-color: red;
+background-position:100%;
+
+background-size: cover;
+
+}
+.Header {
+position: center;
+font-size: 10;
+
+
+}
+
+h5{
+   position: center;
+    font-size :100%;
+    text-align: center;
+}
+
+h1 {
+    color:black;
+    margin:auto;
+    padding: 10;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    
+    text-align: center;
+    font-size:1cm ;
+}
+
+h2 {
+    font-size:larger;
+    margin-left: 3cm;
+    text-align: center;
+}
+
+#submit {
+    background-color: antiquewhite;
+}
+
+#reset {
+    background-color: antiquewhite;
+}
+
+.container{
+    position: center;
+    
+}
+
+button:hover {
+    
+    color: red;
+  }
+
+h4 {
+position: bottom;
+font-size: medium;
+}
+
+  h2::first-line {
+    color: gray;
+    text-transform:Uppercase;
+    
+  } 
+
+span {
+    margin-left: 3cm;
+}
+
+
+
+
+    
